@@ -1,0 +1,1 @@
+# rhel_clone_desktop
